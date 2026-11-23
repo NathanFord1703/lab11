@@ -6,3 +6,4 @@ then
 else
     echo "need name as param"
 fi
+# test comment
